@@ -432,7 +432,7 @@
                     </li>
                     <li class="divider"></li>
                     <li>
-                      <a href="#0">
+                      <a href="{{ route('profile.index') }}">
                         <i class="lni lni-user"></i> View Profile
                       </a>
                     </li>
